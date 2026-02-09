@@ -8,9 +8,9 @@ Este projeto demonstra a automação de testes funcionais de API utilizando o **
 * **JSONPlaceholder** (API mock para testes)
 
 ## O que foi testado?
-- [x] **Status code:** Validação global (nível de Collection) para garantir que todos os endpoints retornam `200 OK`.
-- [x] **Integridade de dados:** Verificação se os nomes dos usuários retornados correspondem aos IDs solicitados (IDs 1 e 8).
-- [x] **Performance:** Verificação se o tempo de resposta é aceitável.
+- **Status code:** Validação global (nível de Collection) para garantir que todos os endpoints retornam `200 OK`.
+- **Integridade de dados:** Verificação se os nomes dos usuários retornados correspondem aos IDs solicitados (IDs 1 e 8).
+- **Performance:** Verificação se o tempo de resposta é aceitável.
 
 ## Como rodar o projeto
 1. Baixe os arquivos `.json` deste repositório.
